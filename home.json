@@ -1,0 +1,62 @@
+[{
+        "data": {
+            "action": "Shop Now",
+            "id": "catId1",
+            "image": "https://picsum.photos/300/400",
+            "title": "COATS & JACKETS"
+        },
+        "type": 0,
+        "order": 0
+    },
+    {
+        "data": {
+            "title": "New In",
+            "categoryId": "catId2",
+            "items": [{
+                    "id": "itemId1",
+                    "image": "https://picsum.photos/450/600",
+                    "title": "Black Fitted Short Sleeve Crop T-Shirt",
+                    "price": 1238
+                },
+                {
+                    "id": "itemId2",
+                    "image": "https://picsum.photos/375/500",
+                    "title": "Waffles, tasty waffles.",
+                    "price": 6548
+                },
+                {
+                    "id": "itemId3",
+                    "image": "https://picsum.photos/150/200",
+                    "title": "Long Johns",
+                    "price": 2541
+                }
+            ]
+        },
+        "type": 1,
+        "order": 1
+    },
+    {
+        "data": {
+            "image": "https://picsum.photos/1280/720",
+            "categoryId": "catId2"
+        },
+        "type": 2,
+        "order": 2
+    },
+    {
+        "data": {
+            "image": "https://picsum.photos/1920/1080",
+            "categoryId": "catId3"
+        },
+        "type": 2,
+        "order": 3
+    },
+    {
+        "data": {
+            "categoryId": "catId5",
+            "image": "https://picsum.photos/720/1280"
+        },
+        "type": 3,
+        "order": 4
+    }
+]
