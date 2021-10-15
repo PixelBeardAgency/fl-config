@@ -1,45 +1,106 @@
 [
   {
     "data": {
-      "action": "Shop Now",
-      "id": 7286
+      "image": "https://femmeluxe.co.uk/media/wysiwyg/banner1-mob_2.jpg",
+      "id": 3729,
+      "title": "End of Season Sale"
     },
     "type": 0,
     "order": 0
   },
   {
     "data": {
-      "id": 3729
+      "image": "https://femmeluxe.co.uk/media/wysiwyg/NEW-IN.jpg",
+      "id": 7915,
+      "title": "New In"
     },
     "type": 1,
     "order": 1
   },
   {
     "data": {
-      "id": 7915
+      "image": "https://femmeluxe.co.uk/media/wysiwyg/MOST-WANTED.jpg",
+      "id": 3729,
+      "title": "Most Wanted"
     },
     "type": 1,
     "order": 2
   },
   {
     "data": {
-      "action": "Shop Now",
-      "id": 3495
+      "image": "https://femmeluxe.co.uk/media/wysiwyg/DRESSES.jpg",
+      "id": 3477,
+      "title": "Dresses"
     },
-    "type": 0,
+    "type": 1,
     "order": 3
   },
   {
     "data": {
-      "action": "Shop Now",
-      "id": 7786
+      "image": "https://femmeluxe.co.uk/media/wysiwyg/4_ethereal_equinox_mobile.png",
+      "id": 7919,
+      "title": "Ethereal Equinox"
     },
     "type": 0,
     "order": 4
   },
   {
     "data": {
+      "image": "https://femmeluxe.co.uk/media/wysiwyg/5_post_lockdown_looks_mobile.png",
+      "id": 7316,
+      "title": "Post-lockdown Party"
+    },
+    "type": 0,
+    "order": 4
+  },
+  {
+    "data": {
+      "image": "https://femmeluxe.co.uk/media/wysiwyg/TOPSMOB.jpg",
+      "id": 3481,
+      "title": "Tops"
+    },
+    "type": 0,
+    "order": 4
+  },
+  {
+    "data": {
+      "title": "Trending",
+      "id": 7408
+    },
+    "type": 2,
+    "order": 4
+  },
+  {
+    "data": {
+      "title": "Dresses",
       "id": 3477
+    },
+    "type": 2,
+    "order": 4
+  },
+  {
+    "data": {
+      "image": "https://femmeluxe.co.uk/media/wysiwyg/SHOP_SALE.png",
+      "id": 3509,
+      "title": "Sale"
+    },
+    "type": 1,
+    "order": 4
+  },
+  {
+    "data": {
+      "image": "https://femmeluxe.co.uk/media/wysiwyg/SHOP_SPIRITUAL.png",
+      "id": 7364,
+      "title": "Spiritual"
+    },
+    "type": 1,
+    "order": 4
+  },
+  {
+    "data": {
+      "image": "https://femmeluxe.co.uk/media/wysiwyg/SHOP_FACE_MASK.png",
+      "id": 6959,
+      "title": "Face Masks"
     },
     "type": 1,
     "order": 4
